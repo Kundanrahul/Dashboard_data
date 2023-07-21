@@ -1,3 +1,8 @@
+
+"dependencies": {
+  "react-circular-progressbar": "2.0.3"
+}
+,
 {
   "name": "dashboard",
   "version": "0.1.0",
